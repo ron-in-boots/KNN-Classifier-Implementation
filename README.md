@@ -1,7 +1,6 @@
 # KNN-Classifier-Implementation
 
-This repository contains the implementation and report for **Machine Learning (IC272) Assignment 1** at IIT Mandi.  
-The project focuses on **preprocessing and classifying Indian districts into literacy categories (Low, Medium, High) using the K-Nearest Neighbors (KNN) algorithm**.
+The project focuses on **preprocessing and classifying Indian districts into literacy categories (Low, Medium, High) using the K-Nearest Neighbors (KNN) algorithm for learning purpose**.
 
 ## Dataset
 - Indian Districts Population dataset (610 records).  
